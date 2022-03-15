@@ -35,7 +35,6 @@ int main()
     scanf("%d", &n);
     long long answer = getAnswer(n);
 
-    printf("%11d\n", answer); 
-    // 왜 문제에는 11d로 나와있었지
+    printf("%11d", answer);
     return 0;
 }
