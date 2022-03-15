@@ -1,5 +1,5 @@
 *
-!*.c
+!*.cpp
 !Makefile
 # .vscode
 # .DS_Store
