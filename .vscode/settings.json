@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "algorithm": "cpp",
+    "vector": "cpp",
+    "new": "cpp",
+    "iostream": "cpp",
+    "string": "cpp",
+    "__locale": "cpp",
+    "__string": "cpp",
+    "string_view": "cpp",
+    "ostream": "cpp",
+    "queue": "cpp",
+    "__hash_table": "cpp",
+    "__tree": "cpp",
+    "deque": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "unordered_map": "cpp"
+  }
+}
